@@ -1,6 +1,6 @@
 # GoogleQuest Competition
 
-The intention of this project is to develop a model that will predict different types of question-answering subjects.The list of question-answer pairs were gathered from nearly 70 different websites. For more details see https://www.kaggle.com/c/google-quest-challenge/overview
+The intention of this project is to develop a model that will predict the labels of different subjective aspects of question-answering. The training labels and the list of question-answer pairs were gathered from nearly 70 different websites and can be found on the Kaggle's competition website: https://www.kaggle.com/c/google-quest-challenge/overview
 
 ## Getting Started
 
