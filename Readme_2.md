@@ -54,9 +54,9 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Nourhene Chalia** - *Initial work* - [PurpleBooth](https://github.com/Nourhene95)
-* **Matthieu Guérin** - *Initial work* - [PurpleBooth](https://github.com/matthieuguerin-rdcaa)
-* **Enzo Luna** - *Initial work* - [PurpleBooth](https://github.com/ezluna)
+* **Nourhene Chalia** - *Initial work* - [Nourhene95](https://github.com/Nourhene95)
+* **Matthieu Guérin** - *Initial work* - [matthieuguerin-rdcaa](https://github.com/matthieuguerin-rdcaa)
+* **Enzo Luna** - *Initial work* - [ezluna](https://github.com/ezluna)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
