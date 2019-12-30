@@ -1,6 +1,6 @@
 # GoogleQuest Competition
 
-The intention of this project is to 
+The intention of this project is to build a model that will predict different types of question-answering subjects.The question-answer pairs were gathered from nearly 70 different websites. For more details see https://www.kaggle.com/c/google-quest-challenge/overview
 
 ## Getting Started
 
@@ -32,33 +32,11 @@ until finished
 
 End with an example of getting some data out of the system or using it for a little demo
 
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+We will eventually list the algos and libraries that we will use. For the moment this is only an exemple
+
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - We can actually put
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
@@ -69,6 +47,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 ## Planning
 
 Please read [Planning.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+
 ## Versioning
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
@@ -87,6 +66,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
+* If we are ever inspired for the code of somenone else we should put it here 
+* If we ever use the code of someone we should mention it here
 * etc
