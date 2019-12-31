@@ -19,7 +19,7 @@ Give examples
 We will eventually list the algos and libraries that we will use. For the moment this is only an exemple
 
 * [Keras](https://pypi.org/project/Keras/) - We can actually put
-* [Maven](https://maven.apache.org/) - Dependency Management
+* [BERT](https://colab.research.google.com/gist/HighCWu/3a02dc497593f8bbe4785e63be99c0c3/bert-keras-tutorial.ipynb#scrollTo=o_4yp35FuZib) - BERT example in colab
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Contributing
