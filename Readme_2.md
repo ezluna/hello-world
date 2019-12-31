@@ -1,6 +1,6 @@
 # GoogleQuest Competition
 
-The intention of this project is to develop a model that will predict target values of 30 different labels for each question-answer pair. The question-answer subjects for training and testing were gathered from nearly 70 different StackExchange websites and can be found on the Kaggle's competition website: https://www.kaggle.com/c/google-quest-challenge/overview
+The intention of this project is to develop a model that will predict target values of 30 different question-answer labels. The question-answer labels and subjects for training and testing were gathered from nearly 70 different StackExchange websites and can be found on the Kaggle's competition website: https://www.kaggle.com/c/google-quest-challenge/overview
 
 ## Getting Started
 
