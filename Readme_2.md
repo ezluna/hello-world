@@ -1,6 +1,6 @@
 # GoogleQuest Competition
 
-The intention of this project is to develop a model that will predict the labels of different subjective aspects of question-answering. The training labels and the list of question-answer pairs were gathered from nearly 70 different websites and can be found on the Kaggle's competition website: https://www.kaggle.com/c/google-quest-challenge/overview
+The intention of this project is to develop a model that will predict target values of 30 different labels for each question-answer pair. The question-answer subjects for training and testing were gathered from nearly 70 different StackExchange websites and can be found on the Kaggle's competition website: https://www.kaggle.com/c/google-quest-challenge/overview
 
 ## Getting Started
 
@@ -18,7 +18,7 @@ Give examples
 
 We will eventually list the algos and libraries that we will use. For the moment this is only an exemple
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - We can actually put
+* [Keras](https://pypi.org/project/Keras/) - We can actually put
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
