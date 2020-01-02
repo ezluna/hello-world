@@ -17,15 +17,15 @@ Bert, etc
 
 ## Built With
 
-We will eventually list the algos and libraries that we will use in a more formal way. For the moment, I had put some exemples:
+For the moment, I've just list the packages and libraries that we may eventually use in python.
 
-* [Keras](https://pypi.org/project/Keras/) - Not sure if we will use this 
-* [BERT](https://colab.research.google.com/gist/HighCWu/3a02dc497593f8bbe4785e63be99c0c3/bert-keras-tutorial.ipynb#scrollTo=o_4yp35FuZib) - BERT example in colab
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Keras](https://pypi.org/project/Keras/) - Not sure if we will use this. It uses Tensorflow in the backend
+* [PyTorch](https://pytorch.org/) - Little knowledge of this guy except that documention is really good
+* [Tensorflow](https://www.tensorflow.org/) - 
 
 ## Planning
 
-Please read [Planning.md](https://https://github.com/ezluna/hello-world/edit/master/Planning.md) to see planning.
+Please read [Planning.md](https://https://github.com/ezluna/hello-world/edit/master/Planning.md) for timeline and delivery
 
 ## Versioning
 
@@ -46,6 +46,9 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * [Github template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) - Template for github projects
+* [Tensorflow vs Pytorch vs Keras](https://towardsdatascience.com/tensorflow-vs-pytorch-vs-keras-for-nlp-exxact-8e51dd13c3f5) - Good review
+* [BERT](https://colab.research.google.com/gist/HighCWu/3a02dc497593f8bbe4785e63be99c0c3/bert-keras-tutorial.ipynb#scrollTo=o_4yp35FuZib) - BERT example in colab
+* [Pytorch Logistic Regression Bag-of-Words classifier](https://pytorch.org/tutorials/beginner/nlp/deep_learning_tutorial.html#sphx-glr-beginner-nlp-deep-learning-tutorial-py) - Good example on deep learning basic approach
 * If we are ever inspired for the code of somenone else we should put it here 
 * If we ever use the code of someone we should mention it here
 * etc
