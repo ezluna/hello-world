@@ -6,13 +6,11 @@ The intention of this project is to develop a model that will predict target val
 
 ### Prerequisites
 
-What things users will need to install and how to install them
+What packages users need to install. The following is an example:
 
 ```
-Exemple: 
-Python 2.7 or 3.6
-Keras
-Bert, etc
+import keras
+from keras.layers import LSTM
 ```
 
 ## Built With
@@ -21,7 +19,7 @@ For the moment, I've just list the packages and libraries that we may eventually
 
 * [Keras](https://pypi.org/project/Keras/) - Not sure if we will use this. It uses Tensorflow in the backend
 * [PyTorch](https://pytorch.org/) - Little knowledge of this guy except that documention is really good
-* [Tensorflow](https://www.tensorflow.org/) - 
+* [Tensorflow](https://www.tensorflow.org/)
 
 ## Planning
 
@@ -39,10 +37,6 @@ We can use [SemVer](http://semver.org/) for versioning. This is really good prac
 
 See also the list of [contributors](https://github.com/matthieuguerin-rdcaa/PolytHEC_GoogQuest/graphs/contributors) who participated in this project.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
 ## Acknowledgments
 
 * [Github template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) - Template for github projects
@@ -52,3 +46,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * If we are ever inspired for the code of somenone else we should put it here 
 * If we ever use the code of someone we should mention it here
 * etc
+
+## License
+
+Do not think we will use this section, but who knows, Matt can create another precision optimiser (as for croissance :)...)
+
