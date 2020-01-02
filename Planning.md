@@ -1,23 +1,23 @@
-# GoogleQuest Competition
+# Planning
 
-The intention of this project is to develop a model that will predict target values of 30 different question-answer labels. The question-answer subjects for training and testing were gathered from nearly 70 different StackExchange websites. More details can be found at Kaggle's competition website: https://www.kaggle.com/c/google-quest-challenge/overview
+## December - January 6th
 
-## Getting Started
+Paper revue and research about Deep learning algos, NLP, etc
 
-We can provide instuctions here on how to get a copy of the project, run it on a local machine, yada, yada, etc
+## Week of January 6th 
 
-### Prerequisites
+First model delivey (version 1) from Nourhene
 
-What things you need to install the software and how to install them
+## Week of January 13th
 
-```
-Give examples
-```
+Following meeting. We make arrangement to see the frequency of the meetings
 
-## Built With
+## Week of January 20th
 
-We will eventually list the algos and libraries that we will use. For the moment this is only an exemple
+Second model delivery (version 2) from Nourhene, Matthieu and Enzo
 
-* [Keras](https://pypi.org/project/Keras/) - We can actually put
-* [BERT](https://colab.research.google.com/gist/HighCWu/3a02dc497593f8bbe4785e63be99c0c3/bert-keras-tutorial.ipynb#scrollTo=o_4yp35FuZib) - BERT example in colab
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+## Week of January 27th
+
+## Week of February 3rd
+
+# February 10th: SUBMISSION MODEL
