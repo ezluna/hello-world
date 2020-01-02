@@ -18,6 +18,8 @@ Second model delivery (version 2) from Nourhene, Matthieu and Enzo
 
 ### Week of January 27th
 
+
 ### Week of February 3rd
 
-## February 10th: SUBMISSION MODEL
+
+## February 10th: Deadline to submit model results
