@@ -25,7 +25,7 @@ We will eventually list the algos and libraries that we will use in a more forma
 
 ## Planning
 
-Please read [Planning.rmd](https://https://github.com/ezluna/hello-world/edit/master/Planning.md) to see planning.
+Please read [Planning.md](https://https://github.com/ezluna/hello-world/edit/master/Planning.md) to see planning.
 
 ## Versioning
 
